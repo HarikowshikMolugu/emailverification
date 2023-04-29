@@ -1,0 +1,87 @@
+#feedback-head{
+    text-align: center;
+    font-size: 40px;
+
+}
+#feedback-form{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+  #fs3{
+    border-radius: 30px;
+    padding: 20px;
+    
+  }
+  #legend3{
+    color: #797878;
+    font-size: 20px;
+  }
+  #fe-name{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+  }
+  #fe-email{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  #fe-ph{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  #fe-country{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  #fe-city{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  #fe-company{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  #fe-website{
+    width:100%;
+    height: 30px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+
+  #fe-msg{
+    width:100%;
+    height:60px; 
+    background-color: rgb(228, 225, 225);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  #fe-button{
+    width: fit-content;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 45%;
+    margin-right: 45%;
+  }
+
+  
